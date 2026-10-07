@@ -14,10 +14,9 @@
 ## 👨‍💻 About Me
 
 - 🐍 Passionate about **Python** and **Django**
-- 🌐 I build web apps and browser automations
-- 🤖 Currently learning **Machine Learning**
-- 🛡️ Currently learning **Network Security**
-- 🎮 Gamer at heart, currently hooked on **War Thunder**
+- 🌐 I build web applications, browser automation, and useful Python programs
+- 🤖 Currently learning **Machine Learning** and *Network Security**
+- 🎮 Gamer at heart, currently hooked on **War Thunder** (The snail got me !)
 - 📺 Favorite series: **The Sopranos**
 
 ## 🛠️ Tech Stack
