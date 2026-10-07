@@ -75,12 +75,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobin-119/mobin-119/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mobin-119/mobin-119/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/mobin-119/mobin-119/output/github-snake.svg" />
-</picture>
+  <img src="https://raw.githubusercontent.com/mobin-119/mobin-119/pixel-graph/pixel-graph.svg" alt="Pixel contribution dashboard" width="100%" />
 </div>
 
 ## 💻 Hardware & Consulting
