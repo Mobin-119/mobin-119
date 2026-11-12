@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-009B77?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-003B3E?style=for-the-badge&logo=django&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-009B77?style=for-the-badge&logo=playwright&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B3E?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20&%20TSQL-003B3E?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-009B77?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-003B3E?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-009B77?style=for-the-badge&logo=javascript&logoColor=white)
